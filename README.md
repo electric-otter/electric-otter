@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @electric-otter
 - 👀 I’m interested in open source projects
 - Dont try reaching out by email, i dont like email contacts. it scares me
-- Fun fact: Did you know you can CD in linux: cd <directory>
+- Fun fact: Did you know you can CD in linux: cd directory
