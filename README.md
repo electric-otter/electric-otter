@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @electric-otter
-- 👀 I’m interested in open source projects
-- Dont try reaching out by email, i dont like email contacts. it scares me
-- Fun fact: Did you know you can CD in linux: cd directory
+Hi! Im electric-otter, i want to be popular while maintaining a good code and repositories, im even interested in open source. You dont need to make me popular if you dont want to. Im moving away from AI to get popular btw.
+# WhiskerDE - The best Linux DE for simple users
+If you find any issues, contribute by reporting issues, and tell me what new features should be added
+https://github.com/electric-otter/Whisker-DE
+Website: https://electric-otter.github.io/Whisker-DE-website/
