@@ -13,3 +13,9 @@ Website: https://electric-otter.github.io/Whisker-DE-website/
 ![GitHub branch status](https://img.shields.io/github/checks-status/electric-otter/Whisker-DE/main)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/electric-otter/Whisker-DE?style=flat)
+
+![GitHub License](https://img.shields.io/github/license/electric-otter/Whisker-DE)
+
+# Contacts (anything related to my github)
+
+electric-otter-github@proton.me
