@@ -5,4 +5,5 @@ If you find any issues, contribute by reporting issues, and tell me what new fea
 https://github.com/electric-otter/Whisker-DE
 
 Website: https://electric-otter.github.io/Whisker-DE-website/
+
 ![Static Badge](https://img.shields.io/badge/license-gnu-blue?style=flat)
