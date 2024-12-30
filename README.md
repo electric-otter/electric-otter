@@ -1,4 +1,4 @@
-Hi! Im electric-otter, i want to be popular while maintaining a good code and repositories, im even interested in open source. You dont need to make me popular if you dont want to. Im moving away from AI cause its bad for coding and also steals from hard workers
+Hi! Im electric-otter, im a good developer :)
 # WhiskerDE - The best Linux DE for simple users
 If you find any issues, contribute by reporting issues, and tell me what new features should be added
 
@@ -9,3 +9,5 @@ Website: https://electric-otter.github.io/Whisker-DE-website/
 ![Static Badge](https://img.shields.io/badge/license-gnu-blue?style=flat)
 
 ![Static Badge](https://img.shields.io/badge/platform-linux-blue?style=flat)
+
+![GitHub branch status](https://img.shields.io/github/checks-status/electric-otter/Whisker-DE/main)
