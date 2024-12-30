@@ -11,3 +11,5 @@ Website: https://electric-otter.github.io/Whisker-DE-website/
 ![Static Badge](https://img.shields.io/badge/platform-linux-blue?style=flat)
 
 ![GitHub branch status](https://img.shields.io/github/checks-status/electric-otter/Whisker-DE/main)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/electric-otter/Whisker-DE?style=flat)
