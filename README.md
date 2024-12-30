@@ -7,3 +7,5 @@ https://github.com/electric-otter/Whisker-DE
 Website: https://electric-otter.github.io/Whisker-DE-website/
 
 ![Static Badge](https://img.shields.io/badge/license-gnu-blue?style=flat)
+
+![Static Badge](https://img.shields.io/badge/platform-linux-linux?style=flat)
