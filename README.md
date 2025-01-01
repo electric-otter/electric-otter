@@ -1,4 +1,4 @@
-Hi! Im electric-otter, im a good developer :)
+Hi! Im electric-otter, im a good developer :) (I decided i would still use AI)
 # WhiskerDE - The best Linux DE for simple users
 If you find any issues, contribute by reporting issues, and tell me what new features should be added
 
